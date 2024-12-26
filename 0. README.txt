@@ -1,0 +1,6 @@
+Python==3.11.9
+프로세서 11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz   2.92 GH
+RAM 16.0GB
+운영체제 WIndows 11
+CPU Architecture AMD64
+OS Version 10.0.22631
